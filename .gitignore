@@ -1,1 +1,29 @@
+# Instace Sync
+**/*.jar
+!InstanceSync*.jar
+**/*.jar.disabled
+**/*.jar.meta
 
+# Extras
+**/*.log
+/.mixin.out
+/saves
+/downloads
+/resourcepacks
+.curseclient
+options.txt
+journeymap/
+
+logs/
+
+BotaniaVars.dat
+
+usercache.json
+
+usernamecache.json
+
+settings.ps1
+
+/mods
+
+minecraftinstance.json
