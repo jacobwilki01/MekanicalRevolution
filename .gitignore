@@ -29,3 +29,7 @@ settings.ps1
 minecraftinstance.json
 
 /local
+
+patchouli_data.json
+
+realms_persistence.json
